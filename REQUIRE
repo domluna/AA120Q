@@ -1,4 +1,3 @@
-julia 0.5
 Reexport
 BayesNets
 Colors
@@ -10,7 +9,7 @@ Plots
 PlotlyJS
 JLD
 Interact
-React
+Reactive
 CrossfilterCharts
 PGFPlots
 RDatasets
